@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{0AA4B4B3-26F4-4A72-8349-35BA6B4ABAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TemplatedHelperMethods", "01_TemplatedHelperMethods\01_TemplatedHelperMethods.csproj", "{0D3429F4-EE13-498E-926D-3FD8E1B95796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA4B4B3-26F4-4A72-8349-35BA6B4ABAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA4B4B3-26F4-4A72-8349-35BA6B4ABAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA4B4B3-26F4-4A72-8349-35BA6B4ABAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA4B4B3-26F4-4A72-8349-35BA6B4ABAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3429F4-EE13-498E-926D-3FD8E1B95796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3429F4-EE13-498E-926D-3FD8E1B95796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3429F4-EE13-498E-926D-3FD8E1B95796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3429F4-EE13-498E-926D-3FD8E1B95796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D068C543-C708-498C-9A96-D2964C252BD5}
+	EndGlobalSection
+EndGlobal
